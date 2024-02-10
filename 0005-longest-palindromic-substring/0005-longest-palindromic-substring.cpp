@@ -7,7 +7,7 @@ public:
         int maxi=1;
         for(int i=0;i<n;i++)
         {
-            int low=i-1;
+            int low=i;
             int high=i;  //odd substring
             while(low>=0 && high<n && s[low]==s[high])
             {
@@ -19,7 +19,7 @@ public:
                 low--;
                high++;
             }
-             low=i-1;
+             low=i;
              high=i+1;
             while(low>=0 && high<n && s[low]==s[high])
             {
