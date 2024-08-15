@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhanutejaindla/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bhanutejaindla/leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/0493-reverse-pairs) |
+| [0890-lemonade-change](https://github.com/bhanutejaindla/leetcode/tree/master/0890-lemonade-change) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/bhanutejaindla/leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
