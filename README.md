@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhanutejaindla/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhanutejaindla/leetcode/tree/master/0050-powx-n) |
+| [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/bhanutejaindla/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/bhanutejaindla/leetcode/tree/master/2645-pass-the-pillow) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/0493-reverse-pairs) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhanutejaindla/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/bhanutejaindla/leetcode/tree/master/0890-lemonade-change) |
+| [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhanutejaindla/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhanutejaindla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhanutejaindla/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
