@@ -12,11 +12,11 @@ public:
             }
             else
             {
-                if(curr>=n)  curr/=10;
+                if(curr>=n) curr/=10;
                 curr++;
                 while(curr%10==0)
                 {
-                    curr/=10;
+                    curr=curr/10;
                 }
             }
         }
