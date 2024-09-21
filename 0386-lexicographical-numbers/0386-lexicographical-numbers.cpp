@@ -1,20 +1,25 @@
 class Solution {
 public:
     vector<int> lexicalOrder(int n) {
-        
-        vector<string>s;
-        for(int i=1;i<=n;i++)
-        {
-            string v=to_string(i);
-            s.push_back(v);
-        }
-        sort(s.begin(),s.end());
+        int curr=1;
         vector<int>ans;
-        for(int i=0;i<s.size();i++)
+        for(int i=0;i<n;i++)
         {
-            ans.push_back(stoi(s[i]));
+            ans.push_back(curr);
+            if(curr*10<=n)
+            {
+                curr=curr*10;
+            }
+            else
+            {
+                if(curr>=n)  curr/=10;
+                curr++;
+                while(curr%10==0)
+                {
+                    curr/=10;
+                }
+            }
         }
         return ans;
-        
     }
 };
