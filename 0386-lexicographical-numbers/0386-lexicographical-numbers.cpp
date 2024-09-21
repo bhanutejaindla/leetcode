@@ -1,19 +1,20 @@
 class Solution {
 public:
     vector<int> lexicalOrder(int n) {
-        vector<string>ans;
+        
+        vector<string>s;
         for(int i=1;i<=n;i++)
         {
-            string a=to_string(i);
-            ans.push_back(a);
+            string v=to_string(i);
+            s.push_back(v);
         }
-        sort(ans.begin(),ans.end());
-        vector<int>v;
-        for(int i=0;i<ans.size();i++)
+        sort(s.begin(),s.end());
+        vector<int>ans;
+        for(int i=0;i<s.size();i++)
         {
-            v.push_back(stoi(ans[i]));
+            ans.push_back(stoi(s[i]));
         }
-        return v;
+        return ans;
         
     }
 };
