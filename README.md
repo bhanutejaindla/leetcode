@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bhanutejaindla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanutejaindla/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/bhanutejaindla/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/bhanutejaindla/leetcode/tree/master/2846-robot-collisions) |
 ## Recursion
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhanutejaindla/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/bhanutejaindla/leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhanutejaindla/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanutejaindla/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/bhanutejaindla/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bhanutejaindla/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhanutejaindla/leetcode/tree/master/0075-sort-colors) |
 | [0908-middle-of-the-linked-list](https://github.com/bhanutejaindla/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
