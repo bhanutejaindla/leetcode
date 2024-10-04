@@ -11,27 +11,20 @@ public:
         int teams=n/2;
         if(sum%teams!=0) return -1;
         int sumeach=sum/teams;
-        unordered_map<int,int>mp;
+        int i=0;
+        int j=n-1;
         long long ans=0;
-        for(int i=0;i<n;i++)
+        sort(skill.begin(),skill.end());
+        while(i<=j)
         {
-            if(mp.find(sumeach-skill[i])!=mp.end() && mp[sumeach-skill[i]]>0 )
+            if(skill[i]+skill[j]==sumeach)
             {
-                
-                    ans+=skill[i]* (sumeach-skill[i]);
-                    mp[sumeach-skill[i]]--;
-    
+              ans+=(skill[i]*skill[j]);
+              i++;
+              j--;
             }
-            else
-            {
-                mp[skill[i]]++;
-            }
+            else return -1;
         }
-        for(auto x:mp)
-        {
-            if(x.second!=0) return -1;
-        }
-        if(ans==0) return -1;
         return ans;
     }
 };
