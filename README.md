@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanutejaindla/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bhanutejaindla/leetcode/tree/master/1720-crawler-log-folder) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhanutejaindla/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/bhanutejaindla/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bhanutejaindla/leetcode/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhanutejaindla/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bhanutejaindla/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bhanutejaindla/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhanutejaindla/leetcode/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/bhanutejaindla/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanutejaindla/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
