@@ -5,19 +5,22 @@ public:
         int n=matrix[0].size();
         for(int i=0;i<m;i++)
         {
-            int low=0;
-            int high=n-1;
-            while(low<=high)
+            int lo=0;
+            int hi=n-1;
+            while(lo<=hi)
             {
-                int mid=low+(high-low)/2;
-                if(matrix[i][mid]==target) return true;
-                else if(matrix[i][mid]>target)
+                int mi=lo+(hi-lo)/2;
+                if(matrix[i][mi]==target)
                 {
-                      high=mid-1;
+                    return true;
+                }
+                else if(matrix[i][mi]>target)
+                {
+                    hi=mi-1;
                 }
                 else
                 {
-                    low=mid+1;
+                    lo=mi+1;
                 }
             }
         }
