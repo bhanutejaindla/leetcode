@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhanutejaindla/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhanutejaindla/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/bhanutejaindla/leetcode/tree/master/0062-unique-paths) |
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/bhanutejaindla/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhanutejaindla/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/bhanutejaindla/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhanutejaindla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bhanutejaindla/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhanutejaindla/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
