@@ -7,19 +7,20 @@ public:
         int high=n-1;
         while(mid<=high)
         {
-            switch(nums[mid])
+            if(nums[mid]==0)
             {
-             case 0:
-               swap(nums[low++],nums[mid++]);
-               break;
-             case 1:
-              mid++;
-              break;
-              case 2:
-              swap(nums[mid],nums[high--]);
-              break;
-              default:
-              break;
+                swap(nums[low],nums[mid]);
+                low++;
+                mid++;
+            }
+            else if(nums[mid]==1)
+            {
+               mid++;
+            }
+            else
+            {
+                swap(nums[mid],nums[high]);
+                high--;
             }
         }
 
