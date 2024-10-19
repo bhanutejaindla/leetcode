@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhanutejaindla/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bhanutejaindla/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bhanutejaindla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhanutejaindla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bhanutejaindla/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/bhanutejaindla/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/bhanutejaindla/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bhanutejaindla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhanutejaindla/leetcode/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bhanutejaindla/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/bhanutejaindla/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhanutejaindla/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bhanutejaindla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/bhanutejaindla/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
