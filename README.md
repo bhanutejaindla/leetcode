@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhanutejaindla/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhanutejaindla/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhanutejaindla/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhanutejaindla/leetcode/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhanutejaindla/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
