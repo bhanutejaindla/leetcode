@@ -3,7 +3,6 @@ public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         sort(nums.begin(),nums.end());
         int n=nums.size();
-        
         set<vector<int>>s;
         for(int i=0;i<n;i++)
         {
@@ -15,25 +14,31 @@ public:
                 int l=n-1;
                 while(k<l)
                 {
-                    long long sum=nums[i];
-                    sum+=nums[j];
-                    sum+=nums[k];
-                    sum+=nums[l];
-                    if(sum==target)
-                    {
-                        vector<int>temp{nums[i],nums[j],nums[k],nums[l]};
-                        s.insert(temp);
-                        k++;l--;
-                        while(k<l && nums[k]==nums[k-1]) k++;
-                        while(k<l && nums[l]==nums[l+1]) l--;
-                    }
-                    else if(sum<target)  k++;
-                    else l--;
+                   long long sum=0;
+                   sum+=nums[i];
+                   sum+=nums[j];
+                   sum+=nums[k];
+                   sum+=nums[l];
+                   if(sum==target)
+                   {
+                    s.insert({nums[i],nums[j],nums[k],nums[l]});
+                    k++;l--;
+                    while(k<l && nums[k]==nums[k-1])k++;
+                    while(k<l && nums[l]==nums[l+1])l--;
+                   }
+                   else if(sum>=target)
+                   {
+                      l--;
+                   }
+                   else
+                   {
+                     k++;
+                   }
                 }
+
             }
         }
-vector<vector<int>>ans(s.begin(),s.end());
-            return ans;
-        
+        vector<vector<int>>ans(s.begin(),s.end());
+        return ans;
     }
 };
