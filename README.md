@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanutejaindla/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/bhanutejaindla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhanutejaindla/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/bhanutejaindla/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhanutejaindla/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/bhanutejaindla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/bhanutejaindla/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
@@ -294,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bhanutejaindla/leetcode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/bhanutejaindla/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
