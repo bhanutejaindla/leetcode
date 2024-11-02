@@ -9,9 +9,9 @@ public:
         }
         for(int i=ind;i<nums.size();i++)
          {
-            swap(nums[i],nums[ind]);
-            helper(nums,i+1,ans,v);
-            swap(nums[i],nums[ind]);
+            swap(nums[ind],nums[i]);
+            helper(nums,ind+1,ans,v);
+            swap(nums[ind],nums[i]);
          }
          return ;
     }
@@ -19,7 +19,8 @@ public:
         int n=nums.size();
         vector<vector<int>>ans;
         vector<int>v;
-        helper(nums,0,ans,v);
+        int ind=0;
+        helper(nums,ind,ans,v);
         return ans;
     }
 };
