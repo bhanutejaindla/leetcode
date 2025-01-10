@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/bhanutejaindla/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bhanutejaindla/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/bhanutejaindla/leetcode/tree/master/0890-lemonade-change) |
+| [0952-word-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0952-word-subsets) |
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/bhanutejaindla/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bhanutejaindla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhanutejaindla/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhanutejaindla/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhanutejaindla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0952-word-subsets) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhanutejaindla/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhanutejaindla/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
