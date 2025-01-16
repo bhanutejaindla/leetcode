@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhanutejaindla/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhanutejaindla/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhanutejaindla/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhanutejaindla/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhanutejaindla/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/bhanutejaindla/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhanutejaindla/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhanutejaindla/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/bhanutejaindla/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhanutejaindla/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/bhanutejaindla/leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/bhanutejaindla/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhanutejaindla/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/bhanutejaindla/leetcode/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
