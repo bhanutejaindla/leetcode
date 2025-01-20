@@ -3,15 +3,15 @@ public:
     void nextPermutation(vector<int>& nums) {
         int n=nums.size();
         int indx=-1;
-        for(int i=n-1;i>0;i--)
+        for(int i=n-1;i>=1;i--)
         {
-            if(nums[i]>nums[i-1])
+            if(nums[i-1]<nums[i])
             {
-                indx=i-1;
-                break;
+                 indx=i-1;
+                 break;
             }
         }
-        if(indx==-1)
+        if(indx==-1) 
         {
             reverse(nums.begin(),nums.end());
             return ;
@@ -20,13 +20,11 @@ public:
         {
             if(nums[i]>nums[indx])
             {
-              swap(nums[indx],nums[i]);
-              break;
+                swap(nums[i],nums[indx]);
+                break;
             }
         }
         reverse(nums.begin()+indx+1,nums.end());
         return ;
-
-
     }
 };
