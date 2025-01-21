@@ -14,24 +14,25 @@ public:
     }
     
     int top() {
-        return st.top();    
+        return st.top();
     }
     
     int getMin() {
         int mini=INT_MAX;
         stack<int>st1;
-       while(!st.empty())
+        while(!st.empty())
         {
-            mini=min(mini,st.top());
-            st1.push(st.top());
+            int a=st.top();
             st.pop();
+            mini=min(mini,a);
+            st1.push(a);
         }
         while(!st1.empty())
-        {
+         {
             st.push(st1.top());
             st1.pop();
-        }
-        return mini;
+         }
+         return mini;
     }
 };
 
