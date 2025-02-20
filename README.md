@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/bhanutejaindla/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/bhanutejaindla/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bhanutejaindla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhanutejaindla/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanutejaindla/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhanutejaindla/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/bhanutejaindla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhanutejaindla/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhanutejaindla/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhanutejaindla/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhanutejaindla/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/bhanutejaindla/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhanutejaindla/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanutejaindla/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2448-count-number-of-bad-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/bhanutejaindla/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhanutejaindla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhanutejaindla/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bhanutejaindla/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Memoization
 |  |
