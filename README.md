@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/bhanutejaindla/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/bhanutejaindla/leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/bhanutejaindla/leetcode/tree/master/2645-pass-the-pillow) |
 ## Array
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bhanutejaindla/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhanutejaindla/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/bhanutejaindla/leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
