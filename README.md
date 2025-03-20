@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanutejaindla/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/bhanutejaindla/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/bhanutejaindla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bhanutejaindla/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bhanutejaindla/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhanutejaindla/leetcode/tree/master/0070-climbing-stairs) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bhanutejaindla/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bhanutejaindla/leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
