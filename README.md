@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/bhanutejaindla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhanutejaindla/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/bhanutejaindla/leetcode/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bhanutejaindla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhanutejaindla/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanutejaindla/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/bhanutejaindla/leetcode/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bhanutejaindla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanutejaindla/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/bhanutejaindla/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/bhanutejaindla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/bhanutejaindla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/bhanutejaindla/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
