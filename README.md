@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhanutejaindla/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bhanutejaindla/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhanutejaindla/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/bhanutejaindla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhanutejaindla/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhanutejaindla/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bhanutejaindla/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bhanutejaindla/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhanutejaindla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhanutejaindla/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
