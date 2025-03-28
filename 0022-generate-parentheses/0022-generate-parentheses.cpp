@@ -1,24 +1,27 @@
 class Solution {
 public:
-    void dfs(int openP,int closeP,string s,int n,vector<string>&res)
+    void helper(int n,string s,vector<string>&ans,int open,int close)
     {
-        if(openP==closeP && openP+closeP==n*2)
+        if(open==n and close==n)
         {
-            res.push_back(s);
+            ans.push_back(s);
             return ;
         }
-        if(openP<n)
+
+        if(open<n)
         {
-            dfs(openP+1,closeP,s+"(",n,res);
+          helper(n,s+'(',ans,open+1,close);
         }
-        if(closeP<openP)
+        if(close<open)
         {
-            dfs(openP,closeP+1,s+")",n,res);
+          helper(n,s+')',ans,open,close+1);
         }
     }
     vector<string> generateParenthesis(int n) {
-        vector<string>res;
-        dfs(0,0,"",n,res);
-        return res;
+        vector<string>ans;
+        string s;
+        int close=0,open=0;
+        helper(n,s,ans,close,open);
+        return ans;
     }
 };
