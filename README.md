@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/bhanutejaindla/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bhanutejaindla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/bhanutejaindla/leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhanutejaindla/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanutejaindla/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2358-number-of-ways-to-split-array](https://github.com/bhanutejaindla/leetcode/tree/master/2358-number-of-ways-to-split-array) |
