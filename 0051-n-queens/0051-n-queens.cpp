@@ -4,7 +4,7 @@ public:
     {
         for(int j=0;j<n;j++)
         {
-            if(board[row][j]=='Q')  return false;
+            if(board[row][j]=='Q') return false;
         }
         for(int i=0;i<n;i++)
         {
@@ -12,11 +12,11 @@ public:
         }
         for(int i=row,j=col;i>=0 && j>=0;i--,j--)
         {
-            if(board[i][j]=='Q')  return false;
+             if(board[i][j]=='Q') return false;
         }
         for(int i=row,j=col;i>=0 && j<n;i--,j++)
         {
-            if(board[i][j]=='Q')  return false;
+            if(board[i][j]=='Q') return false;
         }
         return true;
     }
@@ -31,9 +31,9 @@ public:
         {
             if(isSafe(row,col,board,n))
             {
-                board[row][col]='Q';
-                solve(row+1,board,ans,n);
-                board[row][col]='.';
+                 board[row][col]='Q';
+                 solve(row+1,board,ans,n);
+                 board[row][col]='.';
             }
         }
     }
@@ -47,5 +47,6 @@ public:
         }
         solve(0,board,ans,n);
         return ans;
+
     }
 };
