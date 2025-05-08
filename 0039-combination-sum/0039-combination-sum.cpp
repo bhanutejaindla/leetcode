@@ -1,27 +1,33 @@
 class Solution {
 public:
-    void helper(vector<int>&candidates,int ind,int target,vector<int>&v,vector<vector<int>>&ans)
+    void fun(vector<int>&candidates,int target,vector<int>&ans,vector<vector<int>>&v,int ind)
     {
-        if(target==0)
-        {
-            ans.push_back(v);
-            return ;
-        }
-        if(ind>=candidates.size() || target<0)
+        if(target<0)
         {
             return ;
         }
-         v.push_back(candidates[ind]);
-         helper(candidates,ind,target-candidates[ind],v,ans);
-       
-       v.pop_back();
-       helper(candidates,ind+1,target,v,ans);
-       return ;
+        if(ind>=candidates.size())
+        {
+           if(target==0)
+           {
+              v.push_back(ans);
+              return ;
+           }
+           else
+           {
+            return ;
+           }
+        }
+        ans.push_back(candidates[ind]);
+        fun(candidates,target-candidates[ind],ans,v,ind);
+        ans.pop_back();
+        fun(candidates,target,ans,v,ind+1);
+        return ;
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-       vector<vector<int>>ans;
-       vector<int>v;
-       helper(candidates,0,target,v,ans); 
-       return ans;
+        vector<int>ans;
+        vector<vector<int>>v;
+        fun(candidates,target,ans,v,0);
+        return v;
     }
-};;
+};
