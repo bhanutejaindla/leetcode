@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhanutejaindla/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/bhanutejaindla/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhanutejaindla/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/bhanutejaindla/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Sorting
 |  |
 | ------- |
