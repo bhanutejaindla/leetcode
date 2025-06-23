@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/bhanutejaindla/leetcode/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhanutejaindla/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhanutejaindla/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/bhanutejaindla/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Recursion
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhanutejaindla/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/bhanutejaindla/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Sorting
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/bhanutejaindla/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/bhanutejaindla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/bhanutejaindla/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Tree
 |  |
 | ------- |
@@ -611,4 +615,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/1656-count-good-triplets) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
+## Geometry
+|  |
+| ------- |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 <!---LeetCode Topics End-->
