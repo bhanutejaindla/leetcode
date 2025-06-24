@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/bhanutejaindla/leetcode/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhanutejaindla/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/bhanutejaindla/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bhanutejaindla/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## String
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanutejaindla/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Trie
 |  |
 | ------- |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -620,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 <!---LeetCode Topics End-->
