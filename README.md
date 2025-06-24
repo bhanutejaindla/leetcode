@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/bhanutejaindla/leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3885-count-special-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/3885-count-special-triplets) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/bhanutejaindla/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/bhanutejaindla/leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/bhanutejaindla/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Sorting
 |  |
