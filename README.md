@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/bhanutejaindla/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/bhanutejaindla/leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3885-count-special-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/3885-count-special-triplets) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bhanutejaindla/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## String
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/bhanutejaindla/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/bhanutejaindla/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/bhanutejaindla/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/bhanutejaindla/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/bhanutejaindla/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhanutejaindla/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Trie
 |  |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Backtracking
 |  |
