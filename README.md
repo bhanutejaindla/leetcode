@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/bhanutejaindla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhanutejaindla/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/bhanutejaindla/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhanutejaindla/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhanutejaindla/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/bhanutejaindla/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/bhanutejaindla/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/bhanutejaindla/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/bhanutejaindla/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bhanutejaindla/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/bhanutejaindla/leetcode/tree/master/2509-minimize-xor) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhanutejaindla/leetcode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhanutejaindla/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/bhanutejaindla/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2448-count-number-of-bad-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/bhanutejaindla/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3885-count-special-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/3885-count-special-triplets) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/bhanutejaindla/leetcode/tree/master/0216-combination-sum-iii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhanutejaindla/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/bhanutejaindla/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bhanutejaindla/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Memoization
 |  |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/bhanutejaindla/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Geometry
 |  |
