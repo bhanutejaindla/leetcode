@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhanutejaindla/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanutejaindla/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/bhanutejaindla/leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bhanutejaindla/leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -626,10 +627,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhanutejaindla/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bhanutejaindla/leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhanutejaindla/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bhanutejaindla/leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Data Stream
 |  |
 | ------- |
