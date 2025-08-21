@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/bhanutejaindla/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhanutejaindla/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/1656-count-good-triplets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/bhanutejaindla/leetcode/tree/master/1720-crawler-log-folder) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhanutejaindla/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhanutejaindla/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/bhanutejaindla/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/bhanutejaindla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhanutejaindla/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/bhanutejaindla/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/bhanutejaindla/leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/bhanutejaindla/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/bhanutejaindla/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/bhanutejaindla/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/bhanutejaindla/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/bhanutejaindla/leetcode/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhanutejaindla/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Doubly-Linked List
 |  |
 | ------- |
