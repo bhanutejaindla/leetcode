@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhanutejaindla/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/bhanutejaindla/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/bhanutejaindla/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/bhanutejaindla/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhanutejaindla/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/bhanutejaindla/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhanutejaindla/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhanutejaindla/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhanutejaindla/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhanutejaindla/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhanutejaindla/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhanutejaindla/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhanutejaindla/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bhanutejaindla/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/bhanutejaindla/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/bhanutejaindla/leetcode/tree/master/2509-minimize-xor) |
