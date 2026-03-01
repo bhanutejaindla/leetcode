@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/bhanutejaindla/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bhanutejaindla/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/bhanutejaindla/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhanutejaindla/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1720-crawler-log-folder](https://github.com/bhanutejaindla/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhanutejaindla/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bhanutejaindla/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/bhanutejaindla/leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/bhanutejaindla/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/bhanutejaindla/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/bhanutejaindla/leetcode/tree/master/2089-maximum-matrix-sum) |
