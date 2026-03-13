@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/bhanutejaindla/leetcode/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhanutejaindla/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bhanutejaindla/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/bhanutejaindla/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/bhanutejaindla/leetcode/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/bhanutejaindla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhanutejaindla/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/bhanutejaindla/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/bhanutejaindla/leetcode/tree/master/2509-minimize-xor) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/bhanutejaindla/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhanutejaindla/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhanutejaindla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bhanutejaindla/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bhanutejaindla/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
 ## Counting
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/bhanutejaindla/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/bhanutejaindla/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanutejaindla/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3863-power-grid-maintenance](https://github.com/bhanutejaindla/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/bhanutejaindla/leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bhanutejaindla/leetcode/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
