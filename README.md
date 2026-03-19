@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/bhanutejaindla/leetcode/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/bhanutejaindla/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bhanutejaindla/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhanutejaindla/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/bhanutejaindla/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/bhanutejaindla/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/bhanutejaindla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bhanutejaindla/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bhanutejaindla/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bhanutejaindla/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/bhanutejaindla/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3618-find-the-original-typed-string-ii](https://github.com/bhanutejaindla/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
