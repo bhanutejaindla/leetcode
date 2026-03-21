@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhanutejaindla/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/bhanutejaindla/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/bhanutejaindla/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
 | [3779-eat-pizzas](https://github.com/bhanutejaindla/leetcode/tree/master/3779-eat-pizzas) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/bhanutejaindla/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bhanutejaindla/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/bhanutejaindla/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/bhanutejaindla/leetcode/tree/master/1129-longest-string-chain) |
 | [1972-rotating-the-box](https://github.com/bhanutejaindla/leetcode/tree/master/1972-rotating-the-box) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhanutejaindla/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3643-flip-square-submatrix-vertically](https://github.com/bhanutejaindla/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/bhanutejaindla/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Divide and Conquer
 |  |
