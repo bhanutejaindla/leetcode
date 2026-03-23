@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhanutejaindla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhanutejaindla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/bhanutejaindla/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0645-set-mismatch](https://github.com/bhanutejaindla/leetcode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bhanutejaindla/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/bhanutejaindla/leetcode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0952-word-subsets) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhanutejaindla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhanutejaindla/leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/bhanutejaindla/leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/bhanutejaindla/leetcode/tree/master/0645-set-mismatch) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/bhanutejaindla/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/bhanutejaindla/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhanutejaindla/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/bhanutejaindla/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhanutejaindla/leetcode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/bhanutejaindla/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhanutejaindla/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/bhanutejaindla/leetcode/tree/master/0726-number-of-atoms) |
 | [0952-word-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0952-word-subsets) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhanutejaindla/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhanutejaindla/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/bhanutejaindla/leetcode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/bhanutejaindla/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhanutejaindla/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/bhanutejaindla/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
