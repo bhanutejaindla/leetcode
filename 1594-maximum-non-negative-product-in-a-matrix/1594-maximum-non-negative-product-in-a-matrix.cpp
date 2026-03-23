@@ -1,59 +1,35 @@
 class Solution {
 public:
-    const long long MOD = 1e9+7;
-
-    pair<long long,long long> helper(vector<vector<int>>& grid,
-                                    vector<vector<pair<long long,long long>>>& dp,
-                                    int i, int j, int m, int n) {
-        
-        // base case
-        if(i == m-1 && j == n-1) {
-            return {grid[i][j], grid[i][j]};
-        }
-
-        if(dp[i][j].first != LLONG_MIN) return dp[i][j];
-
-        long long curr = grid[i][j];
-
-        long long maxVal = LLONG_MIN;
-        long long minVal = LLONG_MAX;
-
-        // move right
-        if(j + 1 < n) {
-            auto [maxR, minR] = helper(grid, dp, i, j+1, m, n);
-
-            long long a = curr * maxR;
-            long long b = curr * minR;
-
-            maxVal = max(maxVal, max(a,b));
-            minVal = min(minVal, min(a,b));
-        }
-
-        // move down
-        if(i + 1 < m) {
-            auto [maxD, minD] = helper(grid, dp, i+1, j, m, n);
-
-            long long a = curr * maxD;
-            long long b = curr * minD;
-
-            maxVal = max(maxVal, max(a,b));
-            minVal = min(minVal, min(a,b));
-        }
-
-        return dp[i][j] = {maxVal, minVal};
-    }
-
+    typedef long long ll;
+    int mod = 1e9+7;
     int maxProductPath(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-
-        vector<vector<pair<long long,long long>>> dp(
-            m, vector<pair<long long,long long>>(n, {LLONG_MIN, LLONG_MIN})
-        );
-
-        auto [maxProd, minProd] = helper(grid, dp, 0, 0, m, n);
-
-        if(maxProd < 0) return -1;
-
-        return maxProd % MOD;
+        int n = grid.size();
+        int m= grid[0].size();
+        vector<vector<ll>>dp_max(n,vector<ll>(m,0));
+        vector<vector<ll>>dp_min(n,vector<ll>(m,0));
+        dp_max[0][0] = dp_min[0][0] = grid[0][0];
+        for(int i=1;i<n;i++)
+        {
+            dp_min[i][0] = dp_max[i][0] = dp_max[i-1][0] * grid[i][0];
+        }
+        for(int i=1;i<m;i++)
+        {
+            dp_max[0][i] = dp_min[0][i] = dp_max[0][i - 1] * grid[0][i];
+        }
+        for(int i=1;i<n;i++)
+        {
+            for(int j=1;j<m;j++)
+            {
+                ll a = dp_min[i-1][j] * grid[i][j];
+                ll b = dp_max[i-1][j] * grid[i][j];
+                ll c = dp_min[i][j-1] * grid[i][j];
+                ll d = dp_max[i][j-1] * grid[i][j];
+                dp_min[i][j] = min({a,b,c,d});
+                dp_max[i][j] = max({a,b,c,d});
+            }
+        }
+        if(dp_max[n-1][m-1] < 0) return -1;
+        return dp_max[n-1][m-1]%mod;
+        
     }
 };
