@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bhanutejaindla/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/bhanutejaindla/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/bhanutejaindla/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/bhanutejaindla/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/bhanutejaindla/leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3763-separate-squares-i](https://github.com/bhanutejaindla/leetcode/tree/master/3763-separate-squares-i) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/bhanutejaindla/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/bhanutejaindla/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/bhanutejaindla/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bhanutejaindla/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/bhanutejaindla/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/bhanutejaindla/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/bhanutejaindla/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/bhanutejaindla/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/bhanutejaindla/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3546-equal-sum-grid-partition-i](https://github.com/bhanutejaindla/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/bhanutejaindla/leetcode/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Geometry
 |  |
