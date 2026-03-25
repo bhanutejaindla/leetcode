@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/bhanutejaindla/leetcode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/bhanutejaindla/leetcode/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/bhanutejaindla/leetcode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/bhanutejaindla/leetcode/tree/master/1046-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/bhanutejaindla/leetcode/tree/master/1129-longest-string-chain) |
 | [1240-stone-game-ii](https://github.com/bhanutejaindla/leetcode/tree/master/1240-stone-game-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bhanutejaindla/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/bhanutejaindla/leetcode/tree/master/1046-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhanutejaindla/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/bhanutejaindla/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/bhanutejaindla/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
