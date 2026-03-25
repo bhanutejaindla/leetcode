@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bhanutejaindla/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/bhanutejaindla/leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/bhanutejaindla/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhanutejaindla/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/bhanutejaindla/leetcode/tree/master/1803-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/bhanutejaindla/leetcode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bhanutejaindla/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/bhanutejaindla/leetcode/tree/master/1656-count-good-triplets) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhanutejaindla/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/bhanutejaindla/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/bhanutejaindla/leetcode/tree/master/1720-crawler-log-folder) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/bhanutejaindla/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bhanutejaindla/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhanutejaindla/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/bhanutejaindla/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhanutejaindla/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/bhanutejaindla/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/bhanutejaindla/leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/bhanutejaindla/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhanutejaindla/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhanutejaindla/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/bhanutejaindla/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bhanutejaindla/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-crawler-log-folder](https://github.com/bhanutejaindla/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanutejaindla/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/bhanutejaindla/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
